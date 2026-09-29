@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zh.pymhyxy.cn/sitemap.xml
